@@ -1,9 +1,9 @@
 
-###### {{date}} {{time}}
+###### 2024-10-22 00:09
 ###### Status:
 ###### Tags:
 
-# {{Title}}
+# Time Complexity
 
 
 # Reference

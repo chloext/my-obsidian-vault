@@ -4,11 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "8948c7320393c3d4",
+        "id": "6acfa5e33f49cfd4",
         "type": "tabs",
+        "dimension": 64.2495784148398,
         "children": [
           {
-            "id": "6189c81eb1aa9e8d",
+            "id": "801f0e690540e840",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ed4ae1939ffcb5cf",
+        "type": "tabs",
+        "dimension": 35.750421585160204,
+        "children": [
+          {
+            "id": "b74840aa77ea6e9c",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -73,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 210.5
   },
   "right": {
     "id": "6b5cbe389352e1d1",
@@ -154,8 +172,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ece29a581aa30b22",
+  "active": "801f0e690540e840",
   "lastOpenFiles": [
+    "2 - Knowledge/3 - Main Notes/Time Complexity.md",
+    "4 - Extras/Images/1_WnzJmsVLxhXAhjXI9GUYDg.webp",
+    "4 - Extras/Images/1_KeQ9h7cIMS5eI2SydsWT5A.webp",
+    "4 - Extras/Images",
+    "2 - Knowledge/3 - Main Notes/permutations.md",
+    "2 - Knowledge/3 - Main Notes/Shortest Path Algorithems.md",
+    "2 - Knowledge/3 - Main Notes/STAR Method.md",
+    "2 - Knowledge/3 - Main Notes/Recursion.md",
+    "2 - Knowledge/3 - Main Notes/Maximum Subarray Sum – Kadane’s Algorithm.md",
+    "2 - Knowledge/3 - Main Notes/Longest Common Subsequence.md",
+    "2 - Knowledge/3 - Main Notes/Knapsack.md",
+    "2 - Knowledge/3 - Main Notes/Fibonacci Number (Recursion vs DP).md",
+    "2 - Knowledge/3 - Main Notes/Dynamic Programming.md",
+    "2 - Knowledge/3 - Main Notes/Dynamic Programming vs Recursion.md",
+    "2 - Knowledge/3 - Main Notes/Divide and Conquer.md",
+    "2 - Knowledge/1 - Tags/Behaviour Interview.md",
+    "2 - Knowledge/1 - Tags/Algorithm.md",
+    "2 - Knowledge/1 - Tags",
+    "2 - Knowledge/3 - Main Notes/STAR Method Behaviour Interview.md",
+    "Maximum Subarray Sum – Kadane’s Algorithm.md",
+    "2 - Knowledge/3 - Main Notes/Fibonacci Number.md",
+    "4 - Extras/Images/1_TFdtD-Z1s3S97W2Ntgw9nA.webp",
+    "4 - Extras/Images/0_ros18YSOxiQ81DBt.webp",
+    "4 - Extras/Images/0_inrNN7NxFeNX_tYa.webp",
+    "4 - Extras/Images/0_Equx1eDdS3JOYExR.webp",
+    "Untitled.canvas",
     "4 - Extras",
     "3 - Archive",
     "1 - Project",
@@ -164,14 +208,10 @@
     "6 - Main Notes/2024-10-20.md",
     "6 - Main Notes/create a link.md",
     "Welcome.md",
-    "2 - Knowledge/3 - Main Notes/STAR Method Behaviour Interview.md",
     "2 - Knowledge/0 - Source Material/Lecture",
     "2 - Knowledge/0 - Source Material/Book",
     "4 - Extras/Templates/Main Note.md",
     "6 - Main Notes/Untitled.md",
-    "2 - Knowledge/3 - Main Notes",
-    "4 - Extras/Templates",
-    "2 - Knowledge/2 - Indices",
-    "2 - Knowledge/1 - Tags"
+    "2 - Knowledge/3 - Main Notes"
   ]
 }
