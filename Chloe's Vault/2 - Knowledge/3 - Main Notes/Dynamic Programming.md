@@ -1,7 +1,7 @@
 
 ###### 2024-10-22 00:03
 ###### Status:
-###### Tags:
+###### Tags: [[Algorithm]] [[Divide and Conquer]]
 
 # Dynamic Programming
 Dynamic Programming is a method for designing algorithms.

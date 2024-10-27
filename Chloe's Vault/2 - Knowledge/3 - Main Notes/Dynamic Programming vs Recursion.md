@@ -1,7 +1,7 @@
 
 ###### 2024-10-21 23:48
 ###### Status:
-###### Tags: [[Divide and Conquer]] [[Algorithm]]
+###### Tags: [[Algorithm]]
 
 # [[Dynamic Programming]] vs [[Recursion]]
 
