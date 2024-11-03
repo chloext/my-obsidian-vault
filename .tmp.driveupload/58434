@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fa14568bb88c1538",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".tmp.driveupload/57376",
-                "staged": false
-              },
-              "icon": "git-pull-request",
-              "title": "Diff View (57376)"
-            }
-          },
-          {
             "id": "020179cde52020b8",
             "type": "leaf",
             "state": {
@@ -32,19 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "Operating Systems"
-            }
-          },
-          {
-            "id": "58af105068468810",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".tmp.driveupload/58918",
-                "staged": true
-              },
-              "icon": "git-pull-request",
-              "title": "Diff View (58918)"
             }
           },
           {
@@ -75,8 +49,7 @@
               "title": "multitasking"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -148,6 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2 - Knowledge/1 - Tags/Operating Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +131,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Operating Systems"
             }
           },
           {
@@ -166,11 +140,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2 - Knowledge/1 - Tags/Operating Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Operating Systems"
             }
           },
           {
@@ -191,23 +166,15 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "2 - Knowledge/1 - Tags/Operating Systems.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
-            "id": "7e78f026a8d07cde",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of Operating Systems"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -224,12 +191,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "58af105068468810",
+  "active": "8abf9992c069ed38",
   "lastOpenFiles": [
     "2 - Knowledge/3 - Main Notes/process vs thread.md",
     "2 - Knowledge/1 - Tags/Operating Systems.md",
     "2 - Knowledge/1 - Tags/CS Theory.md",
-    "mount.md",
+    "2 - Knowledge/3 - Main Notes/mount.md",
     "2 - Knowledge/3 - Main Notes/fork.md",
     "2 - Knowledge/3 - Main Notes/Web Scraping Challenges.md",
     "2 - Knowledge/3 - Main Notes/spawn.md",
