@@ -5,7 +5,7 @@
 
 # stream processing
 
-Send message to another process, to be handled asynchronously ([[Asynchrony]])
+Send message to another process, to be handled asynchronously ([[asynchronous]])
 ![[1_fyf4FbgKcQ8r1YRSZ3ek9Q 1.webp]]
 
 # Reference

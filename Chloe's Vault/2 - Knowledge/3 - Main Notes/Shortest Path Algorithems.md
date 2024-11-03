@@ -7,5 +7,7 @@
 
 Commonly solved by [[Dynamic Programming]], 
 Algorithms like Dijkstra’s algorithm (bad if there's a negative weighted edge) and the Bellman-Ford (time inefficient) algorithm use dynamic programming to efficiently compute the shortest path.
+
+![[0*inrNN7NxFeNX_tYa.webp]]
 # Reference
 - https://www.youtube.com/watch?v=j0OUwduDOS0&ab_channel=b001 (2:20, 7:30)

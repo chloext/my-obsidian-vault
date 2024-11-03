@@ -1,9 +1,9 @@
 
-###### {{date}} {{time}}
+###### 2024-11-02 19:57
 ###### Status: 
 ###### Tags: 
 
-# {{Title}}
+# Graph Database
 
 
 

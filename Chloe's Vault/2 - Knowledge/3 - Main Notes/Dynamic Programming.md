@@ -7,7 +7,7 @@
 Dynamic Programming is a method for designing algorithms.
 
 An algorithm designed with Dynamic Programming divides the problem into subproblems, finds solutions to the subproblems, and puts them together to form a complete solution to the problem we want to solve.
-The main idea is to decompose the original question into repeatable patterns and then **store the results as many sub-answers**. Therefore, we **do not have to re-compute** the pre-step answers when needed later.  In terms of big O, this optimization method generally reduces time complexities from exponential to polynomial.
+The main idea is to decompose the original question into repeatable patterns and then **store the results as many sub-answers**. Therefore, we **do not have to re-compute** the pre-step answers when needed later.  In terms of big O, this optimisation method generally reduces time complexities from exponential to polynomial.
 
 #### Problems properties
 - **Overlapping Subproblems:** can be broken down into smaller subproblems, where the solutions to the subproblems are overlapping (the solution to one subproblem is part of the solution to another subproblem).
