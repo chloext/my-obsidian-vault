@@ -11,10 +11,13 @@
             "id": "fa14568bb88c1538",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "diff-view",
+              "state": {
+                "file": ".tmp.driveupload/58540",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (58540)"
             }
           },
           {
@@ -221,7 +224,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "be200f99aee692bc",
+  "active": "fa14568bb88c1538",
   "lastOpenFiles": [
     "2 - Knowledge/1 - Tags/CS Theory.md",
     "mount.md",
