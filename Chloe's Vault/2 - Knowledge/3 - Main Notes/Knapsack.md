@@ -7,6 +7,5 @@
 
 packing a knapsack with items of different weights and values in a way that maximizes the total value of the knapsack while keeping the weight within a certain limit. [[Dynamic programming]] can be used to solve this problem efficiently.
 
-![[1*TFdtD-Z1s3S97W2Ntgw9nA 1.webp]]
 # Reference
 - 

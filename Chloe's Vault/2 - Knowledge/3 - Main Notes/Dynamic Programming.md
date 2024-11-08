@@ -4,6 +4,7 @@
 ###### Tags: [[Algorithm]] [[Divide and Conquer]]
 
 # Dynamic Programming
+
 Dynamic Programming is a method for designing algorithms.
 
 An algorithm designed with Dynamic Programming divides the problem into subproblems, finds solutions to the subproblems, and puts them together to form a complete solution to the problem we want to solve.
@@ -20,8 +21,12 @@ The main idea is to decompose the original question into repeatable patterns and
 4. Write the algorithm (the step-by-step procedure).
 5. Implement the algorithm (test if it works).
 
+#### Example problems
+![[Screen Shot 2024-11-07 at 7.49.44 PM.png]]
+![[Screen Shot 2024-11-07 at 7.49.54 PM.png]]
+
 #### Common usecase
-- [[Shortest Path Algorithems]]
+- [[Shortest Path Algorithms in Dijkstra's Algorithm]] (Including break down of DP solving steps)
 - [[Longest Common Subsequence]]
 - [[Knapsack]] 
 - Optimal Stock Trading Strategies
@@ -31,3 +36,4 @@ The main idea is to decompose the original question into repeatable patterns and
 - https://www.w3schools.com/dsa/dsa_ref_dynamic_programming.php#:~:text=Dynamic%20Programming%20is%20a%20method,problem%20we%20want%20to%20solve.
 - https://towardsdatascience.com/dynamic-programming-i-python-8b20387870f5
 - https://medium.com/@darshanbachhav0/recursion-vs-dynamic-programming-657661c1b96b#:~:text=Approach%3A%20Recursion%20follows%20a%20top,to%20solve%20the%20original%20problem
+- [[计算之魂]] 5.4 p189

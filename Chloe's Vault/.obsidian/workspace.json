@@ -13,40 +13,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Knowledge/1 - Tags/Operating Systems.md",
+                "file": "2 - Knowledge/3 - Main Notes/Dynamic Programming.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Operating Systems"
+              "title": "Dynamic Programming"
             }
           },
           {
-            "id": "9ed0c2390682f4c0",
+            "id": "0cebc0fcf911039b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Knowledge/3 - Main Notes/Multitasking vs Multithreading.md",
+                "file": "2 - Knowledge/3 - Main Notes/Directed Acyclic Graph, DAG.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Multitasking vs Multithreading"
+              "title": "Directed Acyclic Graph, DAG"
             }
           },
           {
-            "id": "a47ab13b89770fbf",
+            "id": "048b4ec3d4e32411",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Knowledge/3 - Main Notes/multitasking.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "multitasking"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -80,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "计算之魂",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,11 +97,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 254.5,
+    "collapsed": true
   },
   "right": {
     "id": "de1ccce3d860ba87",
@@ -121,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Knowledge/1 - Tags/Operating Systems.md",
+                "file": "2 - Knowledge/3 - Main Notes/Pass by Value vs by Reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Operating Systems"
+              "title": "Backlinks for Pass by Value vs by Reference"
             }
           },
           {
@@ -140,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Knowledge/1 - Tags/Operating Systems.md",
+                "file": "2 - Knowledge/3 - Main Notes/Pass by Value vs by Reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Operating Systems"
+              "title": "Outgoing links from Pass by Value vs by Reference"
             }
           },
           {
@@ -167,10 +165,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Knowledge/1 - Tags/Operating Systems.md"
+                "file": "2 - Knowledge/3 - Main Notes/Pass by Value vs by Reference.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Operating Systems"
+              "title": "Outline of Pass by Value vs by Reference"
             }
           }
         ],
@@ -178,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,42 +186,44 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "8abf9992c069ed38",
+  "active": "020179cde52020b8",
   "lastOpenFiles": [
-    "2 - Knowledge/3 - Main Notes/process vs thread.md",
+    "2 - Knowledge/3 - Main Notes/Shortest Path Algorithms in Dijkstra's Algorithm.md",
+    "2 - Knowledge/3 - Main Notes/Web Scraping Challenges.md",
+    "2 - Knowledge/3 - Main Notes/Dynamic Programming.md",
+    "2 - Knowledge/3 - Main Notes/计算之魂 1.md",
+    "2 - Knowledge/3 - Main Notes/计算之魂.md",
+    "Screen Shot 2024-11-07 at 7.49.54 PM.png",
+    "Screen Shot 2024-11-07 at 7.49.44 PM.png",
+    "2 - Knowledge/3 - Main Notes/Directed Acyclic Graph, DAG.md",
+    "2 - Knowledge/1 - Tags/Finance.md",
+    "2 - Knowledge/3 - Main Notes/Encapsulation, Inheritance, Polymorphism, Abstraction in OOPs.md",
+    "4 - Extras/Images/Screen Shot 2024-11-07 at 7.42.32 PM.png",
+    "Dijkstra algorithm.md",
+    "2 - Knowledge/3 - Main Notes/Pass by Value vs by Reference.md",
+    "2 - Knowledge/3 - Main Notes/Python's \"Pass by Reference\".md",
+    "2 - Knowledge/3 - Main Notes/Mutable vs Immutable in Python.md",
+    "2 - Knowledge/3 - Main Notes/Java.md",
+    "2 - Knowledge/3 - Main Notes/Object-Oriented Programming.md",
+    "2 - Knowledge/3 - Main Notes/Interface (Java).md",
+    "2 - Knowledge/3 - Main Notes/Python.md",
+    "2 - Knowledge/1 - Tags/Programming Languages.md",
+    "4 - Extras/Images/屏幕截图 2024-11-05 175917.png",
+    "2 - Knowledge/3 - Main Notes/method overloading.md",
+    "2 - Knowledge/3 - Main Notes/method signatures.md",
+    "2 - Knowledge/3 - Main Notes/Time Complexity.md",
+    "2 - Knowledge/3 - Main Notes/Multitasking vs Multithreading.md",
     "2 - Knowledge/1 - Tags/Operating Systems.md",
+    "2 - Knowledge/3 - Main Notes/process vs thread.md",
     "2 - Knowledge/1 - Tags/CS Theory.md",
     "2 - Knowledge/3 - Main Notes/mount.md",
-    "2 - Knowledge/3 - Main Notes/fork.md",
-    "2 - Knowledge/3 - Main Notes/Web Scraping Challenges.md",
-    "2 - Knowledge/3 - Main Notes/spawn.md",
-    "2 - Knowledge/3 - Main Notes/Multitasking vs Multithreading.md",
-    "2 - Knowledge/3 - Main Notes/Graph.md",
-    "2 - Knowledge/3 - Main Notes/Graph Database.md",
-    "2 - Knowledge/3 - Main Notes/Python concurrency - multiprocessing vs multithreading vs asyncio.md",
-    "2 - Knowledge/3 - Main Notes/process.md",
-    "2 - Knowledge/3 - Main Notes/threading.md",
-    "2 - Knowledge/3 - Main Notes/multitasking.md",
-    "2 - Knowledge/3 - Main Notes/Functional Programming.md",
-    "2 - Knowledge/3 - Main Notes/concurrency.md",
-    "2 - Knowledge/3 - Main Notes/cooperative multitasking.md",
-    "2 - Knowledge/3 - Main Notes/asynchronous.md",
-    "2 - Knowledge/3 - Main Notes/Parallelism.md",
-    "2 - Knowledge/3 - Main Notes/strongly connected component.md",
-    "2 - Knowledge/3 - Main Notes/Dynamic Programming.md",
-    "2 - Knowledge/3 - Main Notes/Distributed Systems.md",
     "4 - Extras/Images/Screen Shot 2024-11-02 at 9.20.53 PM.png",
-    "2 - Knowledge/3 - Main Notes/Maximum Subarray Sum – Kadane’s Algorithm.md",
-    "2 - Knowledge/3 - Main Notes/Knapsack.md",
     "4 - Extras/Images/1*TFdtD-Z1s3S97W2Ntgw9nA 1.webp",
     "4 - Extras/Images/1*TFdtD-Z1s3S97W2Ntgw9nA.webp",
-    "2 - Knowledge/3 - Main Notes/Longest Common Subsequence.md",
     "4 - Extras/Images/0*ros18YSOxiQ81DBt.webp",
-    "2 - Knowledge/3 - Main Notes/Shortest Path Algorithems.md",
     "4 - Extras/Images/0*inrNN7NxFeNX_tYa.webp",
     "I"
   ]

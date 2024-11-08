@@ -31,4 +31,4 @@
 - ![[Screen Shot 2024-11-02 at 9.20.53 PM.png]]
 
 # Reference
-- 计算之魂
+- [[计算之魂]]
